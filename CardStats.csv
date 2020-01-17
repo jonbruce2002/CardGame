@@ -1,4 +1,4 @@
-Version_0.1;Name;Attack;Defence;Text;Type;Class;Spawn;Attack;Attacked;Death;Keyword
+Version_0.11;Name;Attack;Defence;Text;Type;Class;Spawn;Attack;Attacked;Death;Keyword
 angel 02.png;Nathaniel;20;50;Fire;Creature;Angel ; ; ; ; ;
 Angel 03.png;Cassiel;20;50;Temperance;Creature;Angel ; ; ; ; ;
 Angel 07.png;Ariel;20;50;Nature;Creature;Angel ; ; ; ; ;
