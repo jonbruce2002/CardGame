@@ -1,12 +1,12 @@
 Version 0.1;Image;HP;DP;Desc;CardType;Spawn;Attack;Attacked;Death
-Bob;angel 02.png;10;100;This is a description for the card.;Creature;1;0;0;0
-Jim;Angel 03.png;20;90;This is a description for the card.;Creature;1;0;0;0
-Henry;angel 6.png;30;80;This is a description for the card.;Creature;1;0;0;0
-Steve;Angel 07.png;40;70;This is a description for the card.;Creature;1;0;0;0
+Bob;angel%2002.png;10;100;This is a description for the card.;Creature;1;0;0;0
+Jim;Angel%2003.png;20;90;This is a description for the card.;Creature;1;0;0;0
+Henry;angel%206.png;30;80;This is a description for the card.;Creature;1;0;0;0
+Steve;Angel%2007.png;40;70;This is a description for the card.;Creature;1;0;0;0
 Ted;angel01.png;50;60;This is a description for the card.;Creature;1;0;0;0
 Bill;angel04.png;60;50;This is a description for the card.;Creature;1;0;0;0
 Adam;angel05.png;70;40;This is a description for the card.;Creature;1;0;0;0
-Dave;Demon 01.png;80;30;This is a description for the card.;Creature;1;0;0;0
-Jon;demon 03.jpg;90;20;This is a description for the card.;Creature;1;0;0;0
-Kieran;demon 04.png;100;10;This is a description for the card.;Creature;1;0;0;0
-John;Demon 05.png;10;100;This is a description for the card.;Creature;1;0;0;0
+Dave;Demon%2001.png;80;30;This is a description for the card.;Creature;1;0;0;0
+Jon;demon%2003.jpg;90;20;This is a description for the card.;Creature;1;0;0;0
+Kieran;demon%2004.png;100;10;This is a description for the card.;Creature;1;0;0;0
+John;Demon%2005.png;10;100;This is a description for the card.;Creature;1;0;0;0
