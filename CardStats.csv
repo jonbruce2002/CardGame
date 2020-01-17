@@ -1,12 +1,86 @@
-Version 0.1;Image;HP;DP;Desc;CardType;Spawn;Attack;Attacked;Death
-Bob;angel%2002.png;10;100;This is a description for the card.;Creature;1;0;0;0
-Jim;Angel%2003.png;20;90;This is a description for the card.;Creature;1;0;0;0
-Henry;angel%206.png;30;80;This is a description for the card.;Creature;1;0;0;0
-Steve;Angel%2007.png;40;70;This is a description for the card.;Creature;1;0;0;0
-Ted;angel01.png;50;60;This is a description for the card.;Creature;1;0;0;0
-Bill;angel04.png;60;50;This is a description for the card.;Creature;1;0;0;0
-Adam;angel05.png;70;40;This is a description for the card.;Creature;1;0;0;0
-Dave;Demon%2001.png;80;30;This is a description for the card.;Creature;1;0;0;0
-Jon;demon%2003.jpg;90;20;This is a description for the card.;Creature;1;0;0;0
-Kieran;demon%2004.png;100;10;This is a description for the card.;Creature;1;0;0;0
-John;Demon%2005.png;10;100;This is a description for the card.;Creature;1;0;0;0
+Version_0.11;Name;Attack;Defence;Text;Type;Class;Spawn;Attack;Attacked;Death;Keyword
+angel 02.png;Nathaniel;20;50;Fire;Creature;Angel ; ; ; ; ;
+Angel 03.png;Cassiel;20;50;Temperance;Creature;Angel ; ; ; ; ;
+Angel 07.png;Ariel;20;50;Nature;Creature;Angel ; ; ; ; ;
+angel 6.png;Dina;20;50;Learning;Creature;Angel ; ; ; ; ;
+angel01.png;Lailah;25;50;Conception;Creature;Angel ; ; ; ; ;
+angel04.png;Miicah;25;50;Miracles;Creature;Angel ; ; ; ; ;
+angel05.png;Gavril;25;50;Peace;Creature;Angel ; ; ; ; ;
+Demon 01.png;Cipher;30;50;When Demon1 enters the battlefield you must pay a Life Point and put two random spells into your hand. (class cards are not included) ;Creature;Demon;1;0;0;0;
+demon 03.jpg;Incubi ;30;70;"Demon3 costs two Action Points. 
+ 
+When Demon3 enters the battlefield you must pay a Life point and Destroy target creature. ";Creature;Demon;1;0;0;0;
+demon 04.png;Loki;30;40;When demon4 enters the battlefield you must pay a Life Point and draw 3 cards.;Creature;Demon;1;0;0;0;
+Demon 05.png;Wraith ;30;60;When Demon5 enters the battlefield you must pay a Life Point and give another target creature +30/+60;Creature;Demon;1;0;0;0;
+fairy 02.png; ;10;30;Indomitable ;Creature;Fairy; ; ; ; ;Indomitable
+Fairy 03.png; ;10;30;Indomitable ;Creature;Fairy; ; ; ; ;Indomitable
+fairy 04.png; ;10;20;"Indomitable 
+ 
+When x enters the battlefield, all fairies you control get +20/+0 until end of turn. ";Creature;Fairy,Mage;1;0;0;0;Indomitable
+fairy 05.png; ;20;20;"Indomitable 
+ 
+When x enters the battlefield, target creature get's -x/-x where x is the number of fairies you control. ";Creature;Fairy,Assassin;1;0;0;0;Indomitable
+fairy01.png; ;20;20;"Indomitable 
+ 
+When x enters the battlefield, destroy a trap card at random. (This is any trap card currently on the battlefield)";Creature;Fairy,Assassin;1;0;0;0;Indomitable
+fire imp 01.png;Flame Flinger;30;40;When x enters the battlefield, deal 15 damage to target creature. ;Creature;Fire,Beast;1;0;0;0;
+fire imp 05.png;Immolation Imp;20;40;When x dies, deal 20 damage to another target creature. ;Creature;Fire,Beast;0;0;0;1;
+Flame demon 01.png;Inferno Hound;20;60;When X attacks after being in defence mode, deal 10 damage to all creatures on the battlefield. ;Creature;Fire,Beast;0;1;0;0;
+ghoul 01.png; ; ; ; ;Creature;Undead,Ghoul; ; ; ; ;
+Ghoul 03 .png; ; ; ; ;Creature;Undead,Ghoul; ; ; ; ;
+golem 01.png; ; ; ;When x enters the battlefield, sacrifice another mech, if you don't sacrifice this. ;Creature;Mech; ; ; ; ;
+gryphon 03.png; ; ; ; ;Creature;Beast; ; ; ; ;
+gryphon01.png; ; ; ; ;Creature;Beast; ; ; ; ;
+gunship.png; ; ; ; ;Creature;Mech; ; ; ; ;
+holy dragon.png; ;80;120;This unit costs 4 Action Points. ;Creature;Dragon; ; ; ; ;
+ice princess 01rev.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+ice princess 02.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+ice serpent.png; ;80;120;This unit costs 4 Action Points. ;Creature;Frost,Mage; ; ; ; ;
+ice witch 01.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+ice witch 03.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+Knight 01.png; ;20;100;This unit costs 2 Ability Points. ;Creature;Knight; ; ; ; ;
+knight02.png; ;20;100;This unit costs 2 Ability Points. ;Creature;Knight; ; ; ; ;
+lich 02.png; ; ; ;When x enters the battlefield, sacrifice another creature, if you don't sacrifice this. ;Creature;Undead,Mage; ; ; ; ;
+mammoth.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
+mechanar dragon revolt.png; ;80;120;This unit costs 4 Ability Points. ;Creature;Mech,Dragon; ; ; ; ;
+mechanar gryphon.png; ; ; ; ;Creature;Mech,Beast; ; ; ; ;
+paladdin.png; ;20;100;This unit costs 2 Ability Points. ;Creature;Knight; ; ; ; ;
+Pegasus.png; ; ; ; ;Creature;Beast; ; ; ; ;
+Queen Ice.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+robot 01.png; ;0;100;"1 AP: Sacrifice a Creature, deal 40 Damage to another target creature. 
+ 
+Wall";Creature;Mech,Wall;0;0;0;0;
+robot 05.png; ; ; ; ;Creature;Mech,Assassin; ; ; ; ;
+robot 08.png; ; ; ; ;Creature;Mech; ; ; ; ;
+robot 09.png; ; ; ; ;Creature;Mech; ; ; ; ;
+shark.png; ; ; ; ;Creature;Mech,Beast; ; ; ; ;
+snow fairy 01.png; ; ; ; ;Creature;Frost,Fairy; ; ; ; ;
+snow fairy 02.png; ; ; ; ;Creature;Frost,Fairy; ; ; ; ;
+snow fairy 03.png; ; ; ; ;Creature;Frost,Fairy,Assassin; ; ; ; ;
+Snow Fairy 04.png; ; ; ; ;Creature;Frost,Fairy,Assassin; ; ; ; ;
+snow fairy 05.png; ; ; ; ;Creature;Frost,Fairy; ; ; ; ;
+snow fairy 06.png; ; ; ; ;Creature;Frost,Fairy; ; ; ; ;
+Vampir 02.png;x;20;30;"Vampire (When this creature deals damage, if it survives, gain that much health points) 
+ 
+When x dies, put a 0/10 bat creature into play in it's place, 
+ 
+Defence Mode  - Dormant (Is unable to defend you)";Creature;Undead,Vampire;0;0;0;1;
+vampire 03.jpg;x;20;30;"Vampire (When this creature deals damage, if it survives, gain that much health points) 
+ 
+When x 
+ 
+Defence Mode  - Dormant (Is unable to defend you)";Creature;Undead,Vampire; ; ; ; ;
+vampire 04.png;x;20;30;"Vampire (When this creature deals damage, if it survives, gain that much health points) 
+ 
+When x enters the battlefield, deal 10 damage to target creature, if a creature would does this way, gain +10/+10.
+ 
+Defence Mode  - Dormant (Is unable to defend you)";Creature;Undead,Vampire;1;0;0;0;
+vampire 05.jpg; ; ; ; ;Creature;Undead,Vampire; ; ; ; ;
+witch 01.png; ; ; ; ;Creature;Undead,Mage; ; ; ; ;
+Witch 02.png; ; ; ; ;Creature;Undead,Mage; ; ; ; ;
+Witch Ice 02.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+wolf 01.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
+wolf 02.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
+yeti 01.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
+yeti 02.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
+Yeti 03.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
