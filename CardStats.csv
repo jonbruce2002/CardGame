@@ -1,12 +1,12 @@
-Name;Image;HP;DP;Desc;CardType;Spawn;Attack;Attacked;Death;;;;;;
-Bob;1.png;10;100;This;is;a;description;for;the;card.;1;0;0;0;0
-Jim;2.png;20;90;This;is;a;description;for;the;card.;1;0;0;0;0
-Henry;3.png;30;80;This;is;a;description;for;the;card.;1;0;0;0;0
-Steve;4.png;40;70;This;is;a;description;for;the;card.;1;0;0;0;0
-Ted;5.png;50;60;This;is;a;description;for;the;card.;1;0;0;0;0
-Bill;6.png;60;50;This;is;a;description;for;the;card.;1;0;0;0;0
-Adam;7.png;70;40;This;is;a;description;for;the;card.;1;0;0;0;0
-Dave;8.png;80;30;This;is;a;description;for;the;card.;1;0;0;0;0
-Jon;9.png;90;20;This;is;a;description;for;the;card.;1;0;0;0;0
-Kieran;10.png;100;10;This;is;a;description;for;the;card.;1;0;0;0;0
-John;11.png;10;100;This;is;my;test;for;the;card.;1;0;0;0;0
+Name;Image;HP;DP;Desc;CardType;Spawn;Attack;Attacked;Death
+Bob;1.png;10;100;This is a description for the card.;Creature;1;0;0;0
+Jim;2.png;20;90;This is a description for the card.;Creature;1;0;0;0
+Henry;3.png;30;80;This is a description for the card.;Creature;1;0;0;0
+Steve;4.png;40;70;This is a description for the card.;Creature;1;0;0;0
+Ted;5.png;50;60;This is a description for the card.;Creature;1;0;0;0
+Bill;6.png;60;50;This is a description for the card.;Creature;1;0;0;0
+Adam;7.png;70;40;This is a description for the card.;Creature;1;0;0;0
+Dave;8.png;80;30;This is a description for the card.;Creature;1;0;0;0
+Jon;9.png;90;20;This is a description for the card.;Creature;1;0;0;0
+Kieran;10.png;100;10;This is a description for the card.;Creature;1;0;0;0
+John;11.png;10;100;This is a description for the card.;Creature;1;0;0;0
