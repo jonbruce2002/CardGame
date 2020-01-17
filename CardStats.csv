@@ -7,14 +7,12 @@ angel01.png;Lailah;25;50;Conception;Creature;Angel ; ; ; ; ;
 angel04.png;Miicah;25;50;Miracles;Creature;Angel ; ; ; ; ;
 angel05.png;Gavril;25;50;Peace;Creature;Angel ; ; ; ; ;
 Demon 01.png;Cipher;30;50;When Demon1 enters the battlefield you must pay a Life Point and put two random spells into your hand. (class cards are not included) ;Creature;Demon;1;0;0;0;
-demon 03.jpg;Incubi;30;70;"Demon3 costs two Action Points.
-When Demon3 enters the battlefield you must pay a Life point and Destroy target creature.";Creature;Demon;1;0;0;0;
+demon 03.jpg;Incubi;30;70;Demon3 costs two Action Points. /n When Demon3 enters the battlefield you must pay a Life point and Destroy target creature.;Creature;Demon;1;0;0;0;
 demon 04.png;Loki;30;40;When demon4 enters the battlefield you must pay a Life Point and draw 3 cards.;Creature;Demon;1;0;0;0;
 Demon 05.png;Wraith ;30;60;When Demon5 enters the battlefield you must pay a Life Point and give another target creature +30/+60;Creature;Demon;1;0;0;0;
 fairy 02.png; ;10;30;Indomitable ;Creature;Fairy; ; ; ; ;Indomitable
 Fairy 03.png; ;10;30;Indomitable ;Creature;Fairy; ; ; ; ;Indomitable
-fairy 04.png; ;10;20;"Indomitable 
-When x enters the battlefield, all fairies you control get +20/+0 until end of turn. ";Creature;Fairy,Mage;1;0;0;0;Indomitable
+fairy 04.png; ;10;20;Indomitable [/n] When x enters the battlefield, all fairies you control get +20/+0 until end of turn. ;Creature;Fairy,Mage;1;0;0;0;Indomitable
 fairy 05.png; ;20;20;"Indomitable 
 When x enters the battlefield, target creature get's -x/-x where x is the number of fairies you control. ";Creature;Fairy,Assassin;1;0;0;0;Indomitable
 fairy01.png; ;20;20;"Indomitable 
