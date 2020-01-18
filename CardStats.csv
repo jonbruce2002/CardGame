@@ -1,64 +1,65 @@
-Version_0.11;Name;Attack;Defence;Text;Type;Class;Spawn;Attack;Attacked;Death;Keyword
-1.png;Nathaniel;20;50;Fire;Creature;Angel ; ; ; ; ;
-2.png;Cassiel;20;50;Temperance;Creature;Angel ; ; ; ; ;
-3.png;Ariel;20;50;Nature;Creature;Angel ; ; ; ; ;
-4.png;Dina;20;50;Learning;Creature;Angel ; ; ; ; ;
-5.png;Lailah;25;50;Conception;Creature;Angel ; ; ; ; ;
-6.png;Miicah;25;50;Miracles;Creature;Angel ; ; ; ; ;
-7.png;Gavril;25;50;Peace;Creature;Angel ; ; ; ; ;
-8.png;Cipher;30;50;When Demon1 enters the battlefield you must pay a Life Point and put two random spells into your hand. (class cards are not included) ;Creature;Demon;1;0;0;0;
-9.png;Incubi;30;70;Demon3 costs two Action Points. /n/n When Demon3 enters the battlefield you must pay a Life point and Destroy target creature.;Creature;Demon;1;0;0;0;
-10.png;Loki;30;40;When demon4 enters the battlefield you must pay a Life Point and draw 3 cards.;Creature;Demon;1;0;0;0;
-11.png;Wraith ;30;60;When Demon5 enters the battlefield you must pay a Life Point and give another target creature +30/+60;Creature;Demon;1;0;0;0;
-12.png; ;10;30;Indomitable ;Creature;Fairy; ; ; ; ;Indomitable
-13.png; ;10;30;Indomitable ;Creature;Fairy; ; ; ; ;Indomitable
-14.png; ;10;20;Indomitable /n/n When x enters the battlefield, all fairies you control get +20/+0 until end of turn. ;Creature;Fairy,Mage;1;0;0;0;Indomitable
-15.png; ;20;20;Indomitable /n/n When x enters the battlefield, target creature get's -x/-x where x is the number of fairies you control. ;Creature;Fairy,Assassin;1;0;0;0;Indomitable
-16.png; ;20;20;Indomitable /n/n When x enters the battlefield, destroy a trap card at random. (This is any trap card currently on the battlefield);Creature;Fairy,Assassin;1;0;0;0;Indomitable
-17.png;Flame Flinger;30;40;When x enters the battlefield, deal 15 damage to target creature. ;Creature;Fire,Beast;1;0;0;0;
-18.png;Immolation Imp;20;40;When x dies, deal 20 damage to another target creature. ;Creature;Fire,Beast;0;0;0;1;
-19.png;Inferno Hound;20;60;When X attacks after being in defence mode, deal 10 damage to all creatures on the battlefield. ;Creature;Fire,Beast;0;1;0;0;
-20.png; ; ; ; ;Creature;Undead,Ghoul; ; ; ; ;
-21.png; ; ; ; ;Creature;Undead,Ghoul; ; ; ; ;
-22.png; ; ; ;When x enters the battlefield, sacrifice another mech, if you don't sacrifice this. ;Creature;Mech; ; ; ; ;
-23.png; ; ; ; ;Creature;Beast; ; ; ; ;
-24.png; ; ; ; ;Creature;Beast; ; ; ; ;
-25.png; ; ; ; ;Creature;Mech; ; ; ; ;
-26.png; ;80;120;This unit costs 4 Action Points. ;Creature;Dragon; ; ; ; ;
-27.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+Version_0.11;Name;Attack;Defence;Description;Type;Subbtypes;Spawn;Attack;Attacked;Death;Keyword
+1.png;Nathaniel;20;50;Nathaniel costs 3 Action Points. /n/n When Nathaniel enters the battlefield, destroy a random enemy creature. ;Creature;Angel ;1;0;0;0;
+2.png;Cassiel;20;40;While Cassiel is on the battlefield, all other Angels get +20/+0. When Cassiel is attacked, the attacking creature gets -10/-0 until end of turn. ;Creature;Angel ;0;0;1;0;
+3.png;Ariel;20;50;When Ariel enters the battlefield, restore all Angels Health Points to their original totals. ;Creature;Angel ;1;0;0;0;
+4.png;Dina;20;50;Dispatch /n/n When Dina attacks, give a random enemy -10/-0 until end of turn. ;Creature;Angel ;0;1;0;0;
+5.png;Lailah;20;60;Lailah costs 2 Action Points. /n/n When Lailah enters the battlefield, draw an Angel from your library. ;Creature;Angel ;1;0;0;0;
+6.png;Miicah;20;60;Miicah costs 3 Action Points. /n/n When Miicah enters the battlefield, return a random Angel that died this game to the battlefield. Then remove all ghouls on the battlefield and libraries from the game. ;Creature;Angel ;1;0;0;0;
+7.png;Gavril;10;60;When Gavril enters the battlefield, prevent all damage done to all creatures until your next turn. ;Creature;Angel ;1;0;0;0;
+8.png;Cipher;30;50;When Cipher enters the battlefield, you must pay a Life Point, then put two random spells into your hand. (class cards are not included) ;Creature;Demon;1;0;0;0;
+9.png;Incubi ;30;70;Incubi costs two Action Points. /n/n When Incubi enters the battlefield, you must pay a Life point, then destroy target creature. ;Creature;Demon;1;0;0;0;
+10.png;Loki;30;40;When Loki enters the battlefield, you must pay a Life Point, then draw 3 cards.;Creature;Demon;1;0;0;0;
+11.png;Wraith ;30;60;When Wraith enters the battlefield, you must pay a Life Point, then give another target creature +30/+60;Creature;Demon;1;0;0;0;
+12.png;Brute Sprite;20;50;Indomitable Dispatch;Creature;Fairy;0;0;0;0;
+13.png;Resolute Nymph;10;30;Indomitable /n/n When Resolute Nymph enters the battlefield, draw a Fairy from your deck. ;Creature;Fairy;1;0;0;0;Indomitable,Dispatch
+14.png;Cunning Nymph;10;20;Indomitable, Dispatch /n/n When Cunning Nymph enters the battlefield, all fairies you control get +20/+0 until end of turn. ;Creature;Fairy,Mage;1;0;0;0;Indomitable
+15.png;Wily Sprite;20;20;Indomitable /n/n When Wily Sprite enters the battlefield, target creature get's -x/-x where x is the number of fairies you control. ;Creature;Fairy,Assassin;1;0;0;0;Indomitable
+16.png;Archer Nymph;20;20;Indomitable /n/n When Archer Nymph enters the battlefield, destroy a trap card at random. (This is any trap card currently on the battlefield);Creature;Fairy,Assassin;1;0;0;0;Indomitable
+17.png;Flame Flinger;30;40;When Flame Flinger enters the battlefield, deal 15 damage to target creature. ;Creature;Fire,Beast;1;0;0;0;Indomitable
+18.png;Immolation Imp;20;40;When Immolation Imp dies, deal 20 damage to another target creature. ;Creature;Fire,Beast;0;0;0;1;
+19.png;Inferno Hound;20;60;When Inferno Hound attacks after from defence mode, deal 10 damage to all non-fire creatures on the battlefield. ;Creature;Fire,Beast;0;1;0;0;
+20.png;Ghulah;0;20;3 AP  Persist /n/n When Ghulah enters the battlefield, Ghulah gains +10/+10 for each creature that's died this game.;Creature;Undead,Ghoul;1;0;0;1;Persist
+21.png;Ghul;20;0;3 AP  Persist /n/n When Ghulah enters the battlefield, Ghulah gains +10/+10 for each creature that's died this game. ;Creature;Undead,Ghoul;1;0;0;1;Persist
+22.png;Iranemite Destroyer;50;100;When Iranemite Destoryer enters the battlefield, sacrifice another mech, if you don't sacrifice this. /n/n Destroy a target creature with Taunt. ;Creature;Mech;1;0;0;0;
+23.png;Nesting Gryphon;20;30;When Nesting Gryphon enters the battlefield, return a friendly creature to it's owners hand. /n/n When Nesting Gryphon dies, draw a card.;Creature;Beast;1;0;0;1;
+24.png;Bestial Gryphon;30;40;Dispatch /n/n When Bestial Gryphon dies, give all other beasts you control +10/+0.;Creature;Beast;0;0;0;1;
+25.png;Mech Gunship ;0;60;Mech Gunship cannot attack. /n/n At the end of your turn deal 15 damage to all non-mech creatures. ;Creature;Sentry,Mech;0;0;0;0;
+26.png;Archion, The Worthy;80;120;4 AP /n/n Destroy all other creatures and traps on the battlefield, then destroy the rest of your library and discard your hand.;Creature;Dragon;1;0;0;0;
+27.png; ;80;120;This unit costs 4 Action Points. ;Creature;Dragon; ; ; ; ;
 28.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
-29.png; ;80;120;This unit costs 4 Action Points. ;Creature;Frost,Mage; ; ; ; ;
-30.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+29.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+30.png; ;80;120;This unit costs 4 Action Points. ;Creature;Frost,Mage; ; ; ; ;
 31.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
-32.png; ;20;100;This unit costs 2 Ability Points. ;Creature;Knight; ; ; ; ;
-33.png; ;20;100;This unit costs 2 Ability Points. ;Creature;Knight; ; ; ; ;
-34.png; ; ; ;When x enters the battlefield, sacrifice another creature, if you don't sacrifice this. ;Creature;Undead,Mage; ; ; ; ;
-35.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
-36.png; ;80;120;This unit costs 4 Ability Points. ;Creature;Mech,Dragon; ; ; ; ;
-37.png; ; ; ; ;Creature;Mech,Beast; ; ; ; ;
-38.png; ;20;100;This unit costs 2 Ability Points. ;Creature;Knight; ; ; ; ;
-39.png; ; ; ; ;Creature;Beast; ; ; ; ;
-40.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
-41.png; ;0;100;1 AP: Sacrifice a Creature, deal 40 Damage to another target creature. /n/n Wall;Creature;Mech,Wall;0;0;0;0;
-42.png; ; ; ; ;Creature;Mech,Assassin; ; ; ; ;
-43.png; ; ; ; ;Creature;Mech; ; ; ; ;
+32.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+33.png; ;20;100;This unit costs 2 Action Points. ;Creature;Knight; ; ; ; ;
+34.png; ;20;100;This unit costs 2 Action Points. ;Creature;Knight; ; ; ; ;
+35.png; ; ; ;When x enters the battlefield, sacrifice another creature, if you don't sacrifice this. ;Creature;Undead,Mage; ; ; ; ;
+36.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
+37.png; ;80;120;This unit costs 4 Ability Points. ;Creature;Mech,Dragon; ; ; ; ;
+38.png; ; ; ; ;Creature;Mech,Beast; ; ; ; ;
+39.png; ;20;100;This unit costs 2 Ability Points. ;Creature;Knight; ; ; ; ;
+40.png; ; ; ; ;Creature;Beast; ; ; ; ;
+41.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
+42.png; ;0;100;1 AP: Sacrifice a Creature, deal 40 Damage to another target creature. /n/n Wall;Creature;Mech,Wall;0;0;0;0;
+43.png; ; ; ; ;Creature;Mech,Assassin; ; ; ; ;
 44.png; ; ; ; ;Creature;Mech; ; ; ; ;
-45.png; ; ; ; ;Creature;Mech,Beast; ; ; ; ;
-46.png; ; ; ; ;Creature;Frost,Fairy; ; ; ; ;
+45.png; ; ; ; ;Creature;Mech; ; ; ; ;
+46.png; ; ; ; ;Creature;Mech,Beast; ; ; ; ;
 47.png; ; ; ; ;Creature;Frost,Fairy; ; ; ; ;
-48.png; ; ; ; ;Creature;Frost,Fairy,Assassin; ; ; ; ;
+48.png; ; ; ; ;Creature;Frost,Fairy; ; ; ; ;
 49.png; ; ; ; ;Creature;Frost,Fairy,Assassin; ; ; ; ;
-50.png; ; ; ; ;Creature;Frost,Fairy; ; ; ; ;
+50.png; ; ; ; ;Creature;Frost,Fairy,Assassin; ; ; ; ;
 51.png; ; ; ; ;Creature;Frost,Fairy; ; ; ; ;
-52.png;x;20;30;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/n When x dies, put a 0/10 bat creature into play in it's position. /n/n ;Creature;Undead,Vampire;0;0;0;1;
-53.png;x;20;30;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/n When x /n/nDefence Mode  - Dormant ;Creature;Undead,Vampire; ; ; ; ;
-54.png;x;20;30;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/n When x enters the battlefield, deal 10 damage to target creature, if a creature would does this way, gain +10/+10. /n/n Defence Mode  - Dormant;Creature;Undead,Vampire;1;0;0;0;
-55.png; ; ; ; ;Creature;Undead,Vampire; ; ; ; ;
-56.png; ; ; ; ;Creature;Undead,Mage; ; ; ; ;
+52.png; ; ; ; ;Creature;Frost,Fairy; ; ; ; ;
+53.png;x;20;30;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/n When x dies, put a 0/10 bat creature into play in it's position. /n/n ;Creature;Undead,Vampire;0;0;0;1;
+54.png;x;20;30;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/n When x /n/nDefence Mode  - Dormant ;Creature;Undead,Vampire; ; ; ; ;
+55.png;x;20;30;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/n When x enters the battlefield, deal 10 damage to target creature, if a creature would does this way, gain +10/+10. /n/n Defence Mode  - Dormant;Creature;Undead,Vampire;1;0;0;0;
+56.png; ; ; ; ;Creature;Undead,Vampire; ; ; ; ;
 57.png; ; ; ; ;Creature;Undead,Mage; ; ; ; ;
-58.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
-59.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
+58.png; ; ; ; ;Creature;Undead,Mage; ; ; ; ;
+59.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
 60.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
 61.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
 62.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
 63.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
+; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
