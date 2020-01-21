@@ -1,46 +1,46 @@
 Version_0.11;Name;Attack;Defence;Description;Type;Subbtypes;Spawn;Attack;Attacked;Death;Keyword
-1.png;Nathaniel;20;50;4 AP /n/n When Nathaniel enters the battlefield, destroy a random enemy creature. ;Creature;Angel ;1;0;0;0;
+1.png;Nathaniel;20;50;4 AP /n/n Destroy a random enemy creature. ;Creature;Angel ;1;0;0;0;
 2.png;Cassiel;20;40;While Cassiel is on the battlefield, all other Angels get +20/+0. When Cassiel is attacked, the attacking creature gets -10/-0 until end of turn. ;Creature;Angel ;0;0;1;0;
-3.png;Ariel;20;50;When Ariel enters the battlefield, restore all Angels Health Points to their original totals. ;Creature;Angel ;1;0;0;0;
+3.png;Ariel;20;50;Restore all Angels Health Points to their original totals. ;Creature;Angel ;1;0;0;0;
 4.png;Dina;20;50;Dispatch /n/n When Dina attacks, give a random enemy -10/-0 until end of turn. ;Creature;Angel ;0;1;0;0;
-5.png;Lailah;20;60;2 AP /n/n When Lailah enters the battlefield, draw an Angel from your library. ;Creature;Angel ;1;0;0;0;
-6.png;Miicah;20;60;3 AP /n/n When Miicah enters the battlefield, return a random Angel that died this game to the battlefield. Then remove all ghouls on the battlefield and libraries from the game. ;Creature;Angel ;1;0;0;0;
-7.png;Gavril;10;60;When Gavril enters the battlefield, prevent all damage done to all creatures until your next turn. ;Creature;Angel ;1;0;0;0;
-8.png;Cipher;30;50;When Cipher enters the battlefield, you must pay a Life Point, then put two random spells into your hand. (class cards are not included) ;Creature;Demon;1;0;0;0;
-9.png;Incubi ;30;70;2 AP /n/n When Incubi enters the battlefield, you must pay a Life point, then destroy target creature. ;Creature;Demon;1;0;0;0;
-10.png;Loki;30;40;When Loki enters the battlefield, you must pay a Life Point, then draw 3 cards.;Creature;Demon;1;0;0;0;
-11.png;Wraith ;30;60;When Wraith enters the battlefield, you must pay a Life Point, then give another target creature +30/+60;Creature;Demon;1;0;0;0;
+5.png;Lailah;20;60;2 AP /n/n Draw an Angel from your library. ;Creature;Angel ;1;0;0;0;
+6.png;Miicah;20;60;3 AP /n/n Return a random Angel that died this turn to the battlefield. Then remove all ghouls on the battlefield and libraries from the game. ;Creature;Angel ;1;0;0;0;
+7.png;Gavril;10;60;Prevent all damage done to all creatures until your next turn. ;Creature;Angel ;1;0;0;0;
+8.png;Cipher;30;50;Pay a Life Point, then put two random spells into your hand. (class cards are not included) ;Creature;Demon;1;0;0;0;
+9.png;Incubi ;30;70;2 AP /n/n Pay a Life point, then destroy target creature. ;Creature;Demon;1;0;0;0;
+10.png;Loki;30;40;Pay a Life Point, then draw 3 cards.;Creature;Demon;1;0;0;0;
+11.png;Wraith ;30;60;Pay a Life Point, then give another target creature +30/+60;Creature;Demon;1;0;0;0;
 12.png;Brute Sprite;20;50;Indomitable Dispatch;Creature;Fairy;0;0;0;0;
-13.png;Resolute Nymph;10;30;Indomitable /n/n When Resolute Nymph enters the battlefield, draw a Fairy from your deck. ;Creature;Fairy;1;0;0;0;Indomitable,Dispatch
-14.png;Cunning Nymph;10;20;Indomitable, Dispatch /n/n When Cunning Nymph enters the battlefield, all fairies you control get +20/+0 until end of turn. ;Creature;Fairy,Mage;1;0;0;0;Indomitable
-15.png;Wily Sprite;20;20;Indomitable /n/n When Wily Sprite enters the battlefield, target creature get's -x/-x where x is the number of fairies you control. ;Creature;Fairy,Assassin;1;0;0;0;Indomitable
-16.png;Archer Nymph;20;20;Indomitable /n/n When Archer Nymph enters the battlefield, destroy a trap card at random. (This is any trap card currently on the battlefield);Creature;Fairy,Assassin;1;0;0;0;Indomitable
-17.png;Flame Flinger;30;40;When Flame Flinger enters the battlefield, deal 15 damage to target creature. ;Creature;Fire,Beast;1;0;0;0;Indomitable
+13.png;Resolute Nymph;10;30;Indomitable /n/n Draw a Fairy from your deck. ;Creature;Fairy;1;0;0;0;Indomitable,Dispatch
+14.png;Cunning Nymph;10;20;Indomitable, Dispatch /n/n All fairies you control get +20/+0 until end of turn. ;Creature;Fairy,Mage;1;0;0;0;Indomitable
+15.png;Wily Sprite;20;20;Indomitable /n/n Target creature get's -x/-x where x is the number of fairies you control. ;Creature;Fairy,Assassin;1;0;0;0;Indomitable
+16.png;Archer Nymph;20;20;Indomitable /n/n Destroy a trap card at random. (This is any trap card currently on the battlefield);Creature;Fairy,Assassin;1;0;0;0;Indomitable
+17.png;Flame Flinger;30;40;Deal 15 damage to target creature. ;Creature;Fire,Beast;1;0;0;0;Indomitable
 18.png;Immolation Imp;20;40;When Immolation Imp dies, deal 20 damage to another target creature. ;Creature;Fire,Beast;0;0;0;1;
-19.png;Inferno Hound;20;60;When Inferno Hound attacks after from defence mode, deal 10 damage to all non-fire creatures on the battlefield. ;Creature;Fire,Beast;0;1;0;0;
-20.png;Ghulah;0;20;3 AP  Persist /n/n When Ghulah enters the battlefield, Ghulah gains +10/+10 for each creature that's died this game.;Creature;Undead,Ghoul;1;0;0;1;Persist
-21.png;Ghul;20;0;3 AP  Persist /n/n When Ghulah enters the battlefield, Ghulah gains +10/+10 for each creature that's died this game. ;Creature;Undead,Ghoul;1;0;0;1;Persist
-22.png;Iranemite Destroyer;50;100;When Iranemite Destoryer enters the battlefield, sacrifice another mech, if you don't sacrifice this. /n/n Destroy a target creature with Taunt. ;Creature;Mech;1;0;0;0;
-23.png;Nesting Gryphon;20;30;When Nesting Gryphon enters the battlefield, return a friendly creature to it's owners hand. /n/n When Nesting Gryphon dies, draw a card.;Creature;Beast;1;0;0;1;
+19.png;Inferno Hound;20;60;Defence Mode: When you next attack, deal 10 damage to all non-fire creatures on the battlefield. ;Creature;Fire,Beast;0;1;0;0;
+20.png;Ghulah;0;20;3 AP  Persist /n/n Ghulah gains +10/+10 for each creature that's died this game.;Creature;Undead,Ghoul;1;0;0;1;Persist
+21.png;Ghul;20;0;3 AP  Persist /n/n Ghul gains +10/+10 for each creature that's died this game. ;Creature;Undead,Ghoul;1;0;0;1;Persist
+22.png;Iranemite Destroyer;50;100;Sacrifice another mech, if you don't sacrifice this. /n/n Destroy a target creature with Taunt. ;Creature;Mech;1;0;0;0;
+23.png;Nesting Gryphon;20;30;Return a friendly creature to it's owners hand. /n/n When Nesting Gryphon dies, draw a card.;Creature;Beast;1;0;0;1;
 24.png;Bestial Gryphon;30;40;Dispatch /n/n When Bestial Gryphon dies, give all other beasts you control +10/+0.;Creature;Beast;0;0;0;1;
 25.png;Mech Gunship ;0;60;Mech Gunship cannot attack. /n/n At the end of your turn deal 15 damage to all non-mech creatures. ;Creature;Sentry,Mech;0;0;0;0;
 26.png;Archion, The Worthy;80;120;4 AP /n/n Destroy all other creatures and traps on the battlefield, then destroy the rest of your library and discard your hand.;Creature;Dragon;1;0;0;0;
-27.png; ;80;120;This unit costs 4 Action Points. ;Creature;Dragon; ; ; ; ;
-28.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
-29.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
-30.png; ;80;120;This unit costs 4 Action Points. ;Creature;Frost,Mage; ; ; ; ;
-31.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
-32.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
-33.png; ;20;100;This unit costs 2 Action Points. ;Creature;Knight; ; ; ; ;
-34.png; ;20;100;This unit costs 2 Action Points. ;Creature;Knight; ; ; ; ;
-35.png; ; ; ;When x enters the battlefield, sacrifice another creature, if you don't sacrifice this. ;Creature;Undead,Mage; ; ; ; ;
-36.png; ; ; ; ;Creature;Frost,Beast; ; ; ; ;
-37.png; ;80;120;This unit costs 4 Ability Points. ;Creature;Mech,Dragon; ; ; ; ;
-38.png; ; ; ; ;Creature;Mech,Beast; ; ; ; ;
-39.png; ;20;100;This unit costs 2 Ability Points. ;Creature;Knight; ; ; ; ;
-40.png; ; ; ; ;Creature;Beast; ; ; ; ;
-41.png; ; ; ; ;Creature;Frost,Mage; ; ; ; ;
-42.png; ;0;100;1 AP: Sacrifice a Creature, deal 40 Damage to another target creature. /n/n Wall;Creature;Mech,Wall;0;0;0;0;
+27.png;Glacial Witch;30;60;Freeze any creature Glacial Witch attacks. ;Creature;Frost,Mage;0;1;0;0;Freeze
+28.png;Glacial Enchantress;30;40;Draw a card, then deal 10 damage to target creature for each card in your hand.;Creature;Frost,Mage;1;0;0;0;
+29.png;Chrysophylax, The Frostbitten;80;120;"4 AP /n/n Freeze all creatures your opponents control, then add 3 random Frost spells to your hand. /n/n If any creatures would be frozen while Chrysophylax is in defence mode, destroy that creature instead.
+ ";Creature;Frost,Dragon;1;0;0;0;Freeze
+30.png;Bitter Hag;20;50;Freeze target creature /n/n Defence Mode: Freeze any creature that attacks bitter hag. ;Creature;Frost,Mage;1;0;0;0;Freeze
+31.png;Voodoo Necromancer;20;50;2 AP /n/n Draw a random Demon and an Undead from your deck. ;Creature;Frost,Mage;1;0;0;0;
+32.png;Battalion Fighter;20;40;2 AP  Taunt /n/n Defence Mode: Gains +30/+30 whenever a Magic or Trap card is played;Creature;Knight;0;0;0;0;Taunt
+33.png;Battalion Legionnaire ;20;100;2 AP  Taunt /n/n Defence Mode: Gains +10/+0 for each other creature you control.;Creature;Knight;0;0;0;0;Taunt
+34.png;Azrael;10;60;3 AP /n/n Sacrifice an undead creature, if you don't sacrifice Azrael. At the beginning of your turn, if you control 5 Undead Creatures, you win the game. ;Creature;Undead,Mage;1;0;0;0;
+35.png;Woolly Mammoth;30;70;2 AP;Creature;Frost,Beast;0;0;0;0;
+36.png;Manasa, Mech Queen;40;70;4 AP /n/n When Manasa enters the battlefield destroy all Mech creatures, Manasa gets +20/+30 for each mech destroyed this way. /n/n When Manasa dies put 2 random mech creatures onto the battlefield. ;Creature;Mech,Dragon;1;0;0;1;
+37.png;Mechanical Gryphon;40;60;2 AP /n/n When Mechanical Gryphon dies, other mechs you control get +10/+10. ;Creature;Mech,Beast;0;0;0;1;
+38.png;King's Guard;20;100;2 AP  Taunt /n/n Defence Mode: King's Guard takes 10 less damage from all sources. ;Creature;Knight;0;0;1;0;Taunt
+40.png;Pegasus;20;60;Taunt ;Creature;Beast; ; ; ; ;Taunt
+41.png;Frigid Conjurer;20;40;Add a random frost spell to your hand.;Creature;Frost,Mage; ; ; ; ;
+42.png;Mech Battlements ;0;100;Taunt This creature cannot attack /n/n 1 AP: Sacrifice a Creature, deal 40 Damage to another target creature.;Creature;Mech,Wall;0;0;0;0;Taunt
 43.png; ; ; ; ;Creature;Mech,Assassin; ; ; ; ;
 44.png; ; ; ; ;Creature;Mech; ; ; ; ;
 45.png; ; ; ; ;Creature;Mech; ; ; ; ;
