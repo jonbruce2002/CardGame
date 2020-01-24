@@ -45,14 +45,14 @@ Version_0.11;Name;Attack;Defence;AP;Keyword;Description;Type;Subbtypes;Spawn;Att
 45.png;Triggermech Infanteer;30;50;1;;When Triggermech Infanteer attacks deal 10 damage to all opponents creatures.;Creature;Mech;0;1;0;0
 46.png;Sharkellion;40;40;2;;Destroy target creature with 20 or less health points.;Creature;Mech,Beast;1;0;0;0
 47.png;Elusive Nymph;20;20;2;Indomitable;Indommitable /n/nFairies you control have Evasive. ;Creature;Frost,Fairy;0;0;0;0
-48.png; ; ; ;;; ;Creature;Frost,Fairy; ; ; ; 
-49.png; ; ; ;;; ;Creature;Frost,Fairy,Assassin; ; ; ; 
-50.png; ; ; ;;; ;Creature;Frost,Fairy,Assassin; ; ; ; 
-51.png; ; ; ;;; ;Creature;Frost,Fairy; ; ; ; 
-52.png; ; ; ;;; ;Creature;Frost,Fairy; ; ; ; 
-53.png;x;20;30;;;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/nWhen x dies, put a 0/10 bat creature into play in it's position. /n/n;Creature;Undead,Vampire;0;0;0;1
-54.png;x;20;30;;;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/nWhen x /n/nDefence Mode  - Dormant ;Creature;Undead,Vampire; ; ; ; 
-55.png;x;20;30;;;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/nWhen x enters the battlefield, deal 10 damage to target creature, if a creature would does this way, gain +10/+10. /n/nDefence Mode  - Dormant;Creature;Undead,Vampire;1;0;0;0
+48.png;Chilled Nymph;20;20;1;Indomitable;Indomitable /n/nFreeze target Creature;Creature;Frost,Fairy;1;0;0;0
+49.png;Deadly Nymph;20;10;2;Indomitable;Indomitable /n/nDeal 10 damage to target creature for each fairy you control;Creature;Frost,Fairy,Assassin;1;0;0;0
+50.png;Sprite;20;10;1;Indomitable;Indomitable /n/nDeal 20 damage to each non-fairy creature;Creature;Frost,Fairy,Assassin;1;0;0;0
+51.png;Alluring Nymph;10;20;1;Indomitable;Indomitable /n/nGain control of target creature until end of turn;Creature;Frost,Fairy;1;0;0;0
+52.png;Ameliorating Nymph;10;30;1;Indomitable;Indomitable /n/n Defence Mode: At the end of turn, return a fairy that died this turn to the battlefield;Creature;Frost,Fairy,Mage;0;0;0;0
+53.png;x;20;30;;Vampire;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/nWhen x dies, put a 0/10 bat creature into play in it's position. /n/n;Creature;Undead,Vampire;0;0;0;1
+54.png;x;20;30;;Vampire;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/nWhen x /n/nDefence Mode  - Dormant ;Creature;Undead,Vampire; ; ; ; 
+55.png;x;20;30;;Vampire;Vampire (When this creature deals damage, if it survives, gain that much health points) /n/nWhen x enters the battlefield, deal 10 damage to target creature, if a creature would does this way, gain +10/+10. /n/nDefence Mode  - Dormant;Creature;Undead,Vampire;1;0;0;0
 56.png; ; ; ;;; ;Creature;Undead,Vampire; ; ; ; 
 57.png; ; ; ;;; ;Creature;Undead,Mage; ; ; ; 
 58.png; ; ; ;;; ;Creature;Undead,Mage; ; ; ; 
