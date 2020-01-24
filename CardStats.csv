@@ -61,7 +61,7 @@ Version_0.11;Name;Attack;Defence;AP;Keyword;Description;Type;Subbtypes;Spawn;Att
 61.png; ; ; ;;; ;Creature;Frost,Beast; ; ; ; 
 62.png; ; ; ;;; ;Creature;Frost,Beast; ; ; ; 
 63.png; ; ; ;;; ;Creature;Frost,Beast; ; ; ; 
-64.ppng;;;;;;;Creature;Frost,Beast; ; ; ; 
+64.png;;;;;;;Creature;Frost,Beast; ; ; ; 
 s1.png;Snow Storm; ; ;;;"Fill your board with 0/10 Ice blocks with ""Destroy this creature after three turns."" and conceal your creatures identities. /n/nWhen your opponent attacks a concealed space, reveal that creature. ";Spell;Frost;;;;
 s2.png;Intimidate;;;;;Reduce the attack points of all opponents creatures by 30 for 3 turns;Spell;;;;;
 s3.png;Scorched Earth;;;;;Deal 50 to all creatures your opponent controls.;Spell;Dragon;;;;
