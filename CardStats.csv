@@ -64,12 +64,12 @@ Version_1.1;Name;Attack;Defence;AP;Keyword;Description;Type;Subbtypes;Spawn;Atta
 62.png;x;30;60;2; ;Deathwish:*****;Creature;Frost,Beast;0;0;0;1
 63.png;x;30;50;2;Taunt ;Deathwish:*****;Creature;Frost,Beast;0;0;0;1
 64.png;x;30;40;1; ;Deathwish:*****;Creature;Frost,Beast;0;0;0;1
-s1.png;Snow Storm; ; ;;;"Fill your board with 0/10 Ice blocks with ""Destroy this creature after three turns."" and conceal your creatures identities. /n/nWhen your opponent attacks a concealed space, reveal that creature. ";Spell;Frost;;;;
+s1.png;Snow Storm; ; ;;;Fill your board with 0/10 Ice blocks with Destroy this creature after three turns. and conceal your creatures identities. /n/nWhen your opponent attacks a concealed space, reveal that creature. ;Spell;Frost;;;;
 s2.png;Intimidate;;;;;Reduce the attack points of all opponents creatures by 30 for 3 turns;Spell;;;;;
 s3.png;Scorched Earth;;;;;Deal 50 to all creatures your opponent controls.;Spell;Dragon;;;;
 s4.png;Adherent Goop;;;;;Return target creature to it's owners hand;Spell;;;;;
-s5.png;Adoration;;;;;"Demon's you control gain ""Whenever a creature you control dies, draw a card"" ";Spell;Undead;;;;
-s6.png;Reprogram;;;;;"Target mech you control gets ""When this creature dies gain control of a random enemy creature""";Spell; ;;;;
+s5.png;Adoration;;;;;Demon's you control gain Whenever a creature you control dies, draw a card;Spell;Undead;;;;
+s6.png;Reprogram;;;;;Target mech you control gets When this creature dies gain control of a random enemy creature;Spell; ;;;;
 s7.png;Espionage;;;;;Sacrifice 3 Mechs, your opponent loses a life point. ;Spell; ;;;;
 s8.png;Icy Veins;;;;;Freeze 2 random creatures your opponents control;Spell;Frost;;;;
 s9.png;Tsunami;;;;;Destroy all trap cards and remove all buffs on the battlefield.;Spell;Mage;;;;
