@@ -3,7 +3,7 @@ Version_1.1;Name;Attack;Defence;AP;Keyword;Description;Type;Subbtypes;Spawn;Atta
 2.png;Cassiel;10;40;1;Counter-Attack;All other Angels get +20/+0 /n/Attacking creatures gets -10/-0 until end of turn.;Creature;Angel ;0;0;1;0
 3.png;Ariel;30;40;1;Counter-Attack;Restore all Angels Health Points to their original totals. ;Creature;Angel ;1;0;0;0
 4.png;Dina;20;50;1;Dispatch;Strike: Target gets -10/-10 until end of turn. ;Creature;Angel ;0;1;0;0
-5.png;Lailah;20;60;2; ;Draw an Angel from your deck;Creature;Angel ;1;0;0;0
+5.png;Lailah;20;60;2; ;Draw an Angel card from your deck;Creature;Angel ;1;0;0;0
 6.png;Miicah;20;60;3; ;Return a random Angel to the battlefield from the graveyard;Creature;Angel ;1;0;0;0
 7.png;Gavril;10;60;1; ;Prevent all damage done to all creatures until your next turn;Creature;Angel ;1;0;0;0
 8.png;Cipher;30;50;1; ;Pay a Life Point, then put two random spells into your hand. (class cards are not included) ;Creature;Demon;1;0;0;0
@@ -27,7 +27,7 @@ Version_1.1;Name;Attack;Defence;AP;Keyword;Description;Type;Subbtypes;Spawn;Atta
 26.png;Archion, The Worthy;80;120;4; ;Destroy all other creatures and traps on the battlefield, then destroy the rest of your library and discard your hand.;Creature;Dragon;1;0;0;0
 27.png;Glacial Witch;30;60;1;Freeze;Strike: Freeze Glacial Witches Target.;Creature;Frost,Mage;0;1;0;0
 28.png;Glacial Enchantress;30;40;1; ;Draw a card, deal 10 damage to target creature for each card in your hand.;Creature;Frost,Mage;1;0;0;0
-29.png;Chrysophylax, The Frostbitten;80;120;4;Freeze;Freeze all creatures your opponents control, Add 3 Frost spells to your hand. /n/nFortiify: Destroy any frozen creature;Creature;Frost,Dragon;1;0;0;0
+29.png;Chrysophylax, The Frostbitten;80;120;4;Freeze;Freeze all creatures your opponents control, Add 3 Frost cards to your hand. /n/nFortiify: Destroy any frozen creature;Creature;Frost,Dragon;1;0;0;0
 30.png;Bitter Hag;20;50;1;Freeze;Freeze target creature /n/nFortify: Freeze any creature that damages bitter hag.;Creature;Frost,Mage;1;0;0;0
 31.png;Voodoo Necromancer;20;50;2; ;Summon two Ghouls;Creature;Frost,Mage;1;0;0;0
 32.png;Battalion Fighter;20;30;2;Taunt;Fortify: Gains +20/+20 whenever a Magic or Trap card is played;Creature;Knight;0;0;0;0
@@ -38,7 +38,7 @@ Version_1.1;Name;Attack;Defence;AP;Keyword;Description;Type;Subbtypes;Spawn;Atta
 37.png;Mechanical Gryphon;40;60;2; ;Deathwish: Other mechs you control get +20/+20;Creature;Mech,Beast;0;0;0;1
 38.png;King's Guard;10;50;2;Taunt,Counter-Attack;Fortify: King's Guard takes 10 less damage from all sources.;Creature;Knight;0;0;0;0
 40.png;Pegasus;30;60;1;Taunt;End of Turn: give a friendly creature +10/+10;Creature;Beast;0;0;0;0
-41.png;Frigid Conjurer ;20;40;1; ;Add a frost spell to your hand.;Creature;Frost,Mage;1;0;0;0
+41.png;Frigid Conjurer ;20;40;1; ;Add a frost card to your hand.;Creature;Frost,Mage;1;0;0;0
 42.png;Mech Battlements;0;100;1;Taunt;This creature cannot attack. /n/n 1 AP: Sacrifice a Creature, deal 40 Damage to another target creature.;Creature;Sentry,Mech;0;0;0;0
 43.png;Furtive Mechanoid;60;20;3;Dispatch;1 AP: Return this to your hand;Creature;Mech,Assassin;0;0;0;0
 44.png;Sensory Droid;30;40;1; ;Destroy all trap cards on the battlefield and each players hand.;Creature;Mech;1;0;0;0
