@@ -1,63 +1,14 @@
-Keyword;Description;;;;;;;;Spawn;Attack;Attacked;Death
-Dispatch;Can attack creatures the turn it enters without spending AP;;;;;;;;1;0;0;0
-Indomitable;Give other Indomitable creatures +10/+10;;;;;;;;0;0;1;0
-Taunt;Enters in defence mode. Must be attacked first while in defence mode;;;;;;;;1;0;0;0
-Freeze;Frozen creatures cannot attack until the next turn cycle. ;;;;;;;;1;0;0;0
-Evasive;50% chance to miss attacks against this creature. ;;;;;;;;1;0;0;0
-Counter Attack;Also deals damage to the creatures that attack it;;;;;;;;1;0;0;0
-Bloodthirst;This creature gains health whenever it deals damage;;;;;;;;1;0;0;0
-Counter Attack;When this creature is attacked, attack back;;;;;;;;1;0;0;0
-Strike;When this creature attacks ;;;;;;;;1;0;0;0
-Summon;Put a creature onto the battlefield;;;;;;;;1;0;0;0
-Ghoul;10/20 Undead Ghoul Creature with Dispatch;;;;;;;;0;0;0;0
-Conceal;Turn creatures face down and randomise their position, they can still be attacked.;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;0;0;0;1
-;;;;;;;;;0;1;0;0
-;;;;;;;;;1;0;0;1
-;;;;;;;;;1;0;0;1
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;1
-;;;;;;;;;0;0;0;1
-;;;;;;;;;0;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;0;1;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;0;0;0;0
-;;;;;;;;;0;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;0;0;0;0
-;;;;;;;;;1;0;0;1
-;;;;;;;;;0;0;0;1
-;;;;;;;;;0;0;0;0
-;;;;;;;;;0;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;0;0;0;0
-;;;;;;;;;0;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;0;1;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;0;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;0;0;0;0
-;;;;;;;;;0;0;0;1
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;0;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;0
-;;;;;;;;;1;0;0;1
-;;;;;;;;;0;1;0;0
-;;;;;;;;;0;1;0;0
-;;;;;;;;;0;0;0;1
-;;;;;;;;;0;0;0;1
-;;;;;;;;;0;0;0;1
+Keyword;Description
+Dispatch;Can attack creatures the turn it enters without spending AP
+Indomitable;Give other Indomitable creatures +10/+10
+Taunt;Enters in Fortify and must be attacked first while fortified. 
+Freeze;Frozen creatures cannot attack until the next turn cycle. 
+Evasive;50% chance to miss attacks against this creature. 
+Counter Attack;Also deals damage to the creatures that attack it
+Bloodthirst;This creature gains health whenever it deals damage
+Strike;When this creature attacks 
+Summon;Put a creature onto the battlefield
+Ghoul;10/20 Undead Ghoul Creature with Dispatch
+Conceal;Turn creatures face down and randomise their position, they can still be attacked.
+Deathwish;When this creature dies
+Fortify ;A defensive position, heals for 10 hp at the end of turn
