@@ -37,31 +37,31 @@ Version_1.1;Name;Attack;Defence;AP;Keyword;Description;Type;Subbtypes;Spawn;Atta
 36.png;Manasa, Mech Queen;40;70;4; ;Destroy all Mech creatures, Manasa gets +20/+20 for each mech destroyed this way. /n/nDeathwish: Put 2 random mech creatures onto the battlefield.;Creature;Mech,Dragon;1;0;0;1
 37.png;Mechanical Gryphon;40;60;2; ;Deathwish: Other mechs you control get +20/+20;Creature;Mech,Beast;0;0;0;1
 38.png;King's Guard;10;50;2;Taunt,Counter-Attack;Fortify: King's Guard takes 10 less damage from all sources.;Creature;Knight;0;0;0;0
-40.png;Pegasus;30;60;1;Taunt;End of Turn: give a friendly creature +10/+10;Creature;Beast;0;0;0;0
-41.png;Frigid Conjurer ;20;40;1; ;Add a frost card to your hand.;Creature;Frost,Mage;1;0;0;0
-42.png;Mech Battlements;0;100;1;Taunt;This creature cannot attack. /n/n 1 AP: Sacrifice a Creature, deal 40 Damage to another target creature.;Creature;Sentry,Mech;0;0;0;0
-43.png;Furtive Mechanoid;60;20;3;Dispatch;1 AP: Return this to your hand;Creature;Mech,Assassin;0;0;0;0
-44.png;Sensory Droid;30;40;1; ;Destroy all trap cards on the battlefield and each players hand.;Creature;Mech;1;0;0;0
-45.png;Triggermech Infanteer;30;40;1; ;Strike: Deal 10 damage to all opponents creatures.;Creature;Mech;0;1;0;0
-46.png;Sharkellion;30;40;2;Counter Attack;Destroy target creature with 20 or less health points.;Creature;Mech,Beast;1;0;0;0
-47.png;Elusive Nymph;20;20;2;Indomitable;Fairies you control have Evasive;Creature;Frost,Fairy;0;0;0;0
-48.png;Chilled Nymph;20;20;1;Indomitable;Freeze target Creature;Creature;Frost,Fairy;1;0;0;0
-49.png;Deadly Nymph;20;20;2;Indomitable;Deal 10 damage to target creature for each fairy you control;Creature;Frost,Fairy,Assassin;1;0;0;0
-50.png;Sprite;20;10;1;Indomitable;Deal 20 damage to each non-fairy creature;Creature;Frost,Fairy,Assassin;1;0;0;0
-51.png;Alluring Nymph;10;20;2;Indomitable;Gain control of target creature until end of turn, it gains dispatch.;Creature;Frost,Fairy;1;0;0;0
-52.png;Ameliorating Nymph;10;30;1;Indomitable;Fortify: At the end of turn, return a fairy that died this turn to the battlefield;Creature;Frost,Fairy,Mage;0;0;0;0
-53.png;Damien;10;30;2;Bloodthirst,Counter-Attack;Summon two Ghouls;Creature;Undead,Vampire;0;0;0;1
-54.png;Dawn;20;10;2;Bloodthirst;Deal 30 damage to target creature;Creature;Undead,Vampire;1;0;0;0
-55.png;Jezebel;10;10;1;Bloodthirst;Gets +10/+10 for each creature that died this turn.;Creature;Undead,Vampire;1;0;0;0
-56.png;Raul;20;10;2;Bloodthirst,Dispatch;Summon a Ghoul;Creature;Undead,Vampire;0;0;0;0
-57.png;Lilith;30;30;2; ;If you have no cards in hand, deal 50 damage to target creature and heal a life point. ;Creature;Undead,Mage;1;0;0;0
-58.png;Shadowflame Conjurer ;40;20;2; ;Deal 10 damage to 3 random creatures your opponent controls;Creature;Undead,Mage;1;0;0;0
-59.png;Aimee, Artic Summoner;30;40;2; ;Freeze target creature until Aimee, Arctic Summoner leaves the battlefield;Creature;Frost,Mage;1;0;0;1
-60.png;Swift Wolf;10;30;1;Dispatch,Counter Attack;Can attack twice in a turn;Creature;Frost,Beast;0;1;0;0
-61.png;War Hound;30;20;2;Dispatch,Counter Attack;Strike: Attacked creature gets -10/-0;Creature;Frost,Beast;0;1;0;0
-62.png;Unsettled Yeti;30;40;1; ;Deathwish: Add a beast to your hand;Creature;Frost,Beast;0;0;0;1
-63.png;War Sasquatch ;30;50;3;Taunt ;Deathwish: Destroy a random enemy minion;Creature;Frost,Beast;0;0;0;1
-64.png;Lonely Yeti;30;40;2; ;Trigger a friendly creatures Deathwish/n/nDeathwish:Draw a card with Deathwish;Creature;Frost,Beast;0;0;0;1
+39.png;Pegasus;30;60;1;Taunt;End of Turn: give a friendly creature +10/+10;Creature;Beast;0;0;0;0
+40.png;Frigid Conjurer ;20;40;1; ;Add a frost card to your hand.;Creature;Frost,Mage;1;0;0;0
+41.png;Mech Battlements;0;100;1;Taunt;This creature cannot attack. /n/n 1 AP: Sacrifice a Creature, deal 40 Damage to another target creature.;Creature;Sentry,Mech;0;0;0;0
+42.png;Furtive Mechanoid;60;20;3;Dispatch;1 AP: Return this to your hand;Creature;Mech,Assassin;0;0;0;0
+43.png;Sensory Droid;30;40;1; ;Destroy all trap cards on the battlefield and each players hand.;Creature;Mech;1;0;0;0
+44.png;Triggermech Infanteer;30;40;1; ;Strike: Deal 10 damage to all opponents creatures.;Creature;Mech;0;1;0;0
+45.png;Sharkellion;30;40;2;Counter Attack;Destroy target creature with 20 or less health points.;Creature;Mech,Beast;1;0;0;0
+46.png;Elusive Nymph;20;20;2;Indomitable;Fairies you control have Evasive;Creature;Frost,Fairy;0;0;0;0
+47.png;Chilled Nymph;20;20;1;Indomitable;Freeze target Creature;Creature;Frost,Fairy;1;0;0;0
+48.png;Deadly Nymph;20;20;2;Indomitable;Deal 10 damage to target creature for each fairy you control;Creature;Frost,Fairy,Assassin;1;0;0;0
+49.png;Sprite;20;10;1;Indomitable;Deal 20 damage to each non-fairy creature;Creature;Frost,Fairy,Assassin;1;0;0;0
+50.png;Alluring Nymph;10;20;2;Indomitable;Gain control of target creature until end of turn, it gains dispatch.;Creature;Frost,Fairy;1;0;0;0
+51.png;Ameliorating Nymph;10;30;1;Indomitable;Fortify: At the end of turn, return a fairy that died this turn to the battlefield;Creature;Frost,Fairy,Mage;0;0;0;0
+52.png;Damien;10;30;2;Bloodthirst,Counter-Attack;Summon two Ghouls;Creature;Undead,Vampire;0;0;0;1
+53.png;Dawn;20;10;2;Bloodthirst;Deal 30 damage to target creature;Creature;Undead,Vampire;1;0;0;0
+54.png;Jezebel;10;10;1;Bloodthirst;Gets +10/+10 for each creature that died this turn.;Creature;Undead,Vampire;1;0;0;0
+55.png;Raul;20;10;2;Bloodthirst,Dispatch;Summon a Ghoul;Creature;Undead,Vampire;0;0;0;0
+56.png;Lilith;30;30;2; ;If you have no cards in hand, deal 50 damage to target creature and heal a life point. ;Creature;Undead,Mage;1;0;0;0
+57.png;Shadowflame Conjurer ;40;20;2; ;Deal 10 damage to 3 random creatures your opponent controls;Creature;Undead,Mage;1;0;0;0
+58.png;Aimee, Artic Summoner;30;40;2; ;Freeze target creature until Aimee, Arctic Summoner leaves the battlefield;Creature;Frost,Mage;1;0;0;1
+59.png;Swift Wolf;10;30;1;Dispatch,Counter Attack;Can attack twice in a turn;Creature;Frost,Beast;0;1;0;0
+60.png;War Hound;30;20;2;Dispatch,Counter Attack;Strike: Attacked creature gets -10/-0;Creature;Frost,Beast;0;1;0;0
+61.png;Unsettled Yeti;30;40;1; ;Deathwish: Add a beast to your hand;Creature;Frost,Beast;0;0;0;1
+62.png;War Sasquatch ;30;50;3;Taunt ;Deathwish: Destroy a random enemy minion;Creature;Frost,Beast;0;0;0;1
+63.png;Lonely Yeti;30;40;2; ;Trigger a friendly creatures Deathwish/n/nDeathwish:Draw a card with Deathwish;Creature;Frost,Beast;0;0;0;1
 s1.png;Snow Storm; ; ;;;Fill your board with 0/10 Ice blocks with Destroy this creature after three turns. and conceal your creatures identities. /n/nWhen your opponent attacks a concealed space, reveal that creature. ;Spell;Frost;;;;
 s2.png;Intimidate;;;;;Reduce the attack points of all opponents creatures by 30 for 3 turns;Spell;;;;;
 s3.png;Scorched Earth;;;;;Deal 50 to all creatures your opponent controls.;Spell;Dragon;;;;
