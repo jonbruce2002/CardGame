@@ -1,54 +1,54 @@
 Version_1.1;Name;Attack;Defence;AP;Keyword;Description;Type;Subbtypes;Spawn;Attack;Attacked;Death
-1.png;Nathaniel;30;60;3; ;Destroy a random enemy creature. ;Creature;Angel;1;0;0;0
-2.png;Cassiel;10;40;1;Counter-Attack;All other Angels get +20/+0 /n/Attacking creatures gets -10/-0 until end of turn.;Creature;Angel ;0;0;1;0
-3.png;Ariel;30;40;1;Counter-Attack;Restore all Angels Health Points to their original totals. ;Creature;Angel ;1;0;0;0
-4.png;Dina;20;50;1;Dispatch;Strike: Target gets -10/-10 until end of turn. ;Creature;Angel ;0;1;0;0
+1.png;Nathaniel;30;60;3; ;Destroy a random enemy creature;Creature;Angel;1;0;0;0
+2.png;Cassiel;10;40;2;Counter-Attack;Angels you control get +20/+0;Creature;Angel ;0;0;1;0
+3.png;Ariel;30;40;1;Counter-Attack;Restore all Angels Health Points to their original totals;Creature;Angel ;1;0;0;0
+4.png;Dina;20;40;1;Dispatch;Strike: Target gets -10/-10 until end of turn;Creature;Angel ;0;1;0;0
 5.png;Lailah;20;60;2; ;Draw an Angel card from your deck;Creature;Angel ;1;0;0;0
 6.png;Miicah;20;60;3; ;Return a random Angel to the battlefield from the graveyard;Creature;Angel ;1;0;0;0
 7.png;Gavril;10;60;1; ;Prevent all damage done to all creatures until your next turn;Creature;Angel ;1;0;0;0
-8.png;Cipher;30;50;1; ;Pay a Life Point, then put two random spells into your hand. (class cards are not included) ;Creature;Demon;1;0;0;0
-9.png;Incubi ;30;40;2; ;Pay a Life point, then destroy target creature.;Creature;Demon;1;0;0;0
-10.png;Loki;30;40;2;Counter-Attack;Pay a Life Point, then draw 3 cards.;Creature;Demon;1;0;0;0
+8.png;Cipher;30;50;1; ;Pay a Life Point, then put two random spells into your hand;Creature;Demon;1;0;0;0
+9.png;Incubi ;30;40;2; ;Pay a Life point, then destroy target creature;Creature;Demon;1;0;0;0
+10.png;Loki;30;40;2;Counter-Attack;Pay a Life Point, then draw 3 cards;Creature;Demon;1;0;0;0
 11.png;Wraith ;30;60;1; ;Pay a Life Point, then give another target creature +30/+60;Creature;Demon;1;0;0;0
 12.png;Brute Sprite;20;40;1;Indomitable,Dispatch; ;Creature;Fairy;0;0;0;0
 13.png;Resolute Nymph;10;30;1;Indomitable;Draw a Fairy from your deck;Creature;Fairy;1;0;0;0
 14.png;Cunning Nymph;10;20;1;Indomitable,Dispatch;Fairies you control get +20/+0 until end of turn;Creature;Fairy,Mage;1;0;0;0
 15.png;Wily Sprite;20;20;1;Indomitable;Target Creature gets -10/-10 for each Fairy you control;Creature;Fairy,Assassin;1;0;0;0
-16.png;Archer Nymph;20;20;1;Indomitable;Destroy a trap card at random.;Creature;Fairy,Assassin;1;0;0;0
-17.png;Flame Flinger;30;40;1; ;Deal 15 damage to target creature. ;Creature;Fire,Beast;1;0;0;0
-18.png;Immolation Imp;20;40;1; ;Deathwish: Deal 20 damage to target creature. ;Creature;Fire,Beast;0;0;0;1
-19.png;Inferno Hound;20;60;1;Taunt,Counter-Attack;Deal 20 damage to all non-fire creatures on the battlefield when attacking from fortify. ;Creature;Fire,Beast;0;1;0;0
+16.png;Archer Nymph;20;20;1;Indomitable;Destroy a trap card at random;Creature;Fairy,Assassin;1;0;0;0
+17.png;Flame Flinger;30;40;1; ;Deal 15 damage to target creature;Creature;Fire,Beast;1;0;0;0
+18.png;Immolation Imp;20;40;1; ;Deathwish: Deal 20 damage to target creature;Creature;Fire,Beast;0;0;0;1
+19.png;Inferno Hound;20;60;1;Taunt,Counter-Attack;Deal 20 damage to all non-fire creatures on the battlefield when attacking from fortify;Creature;Fire,Beast;0;1;0;0
 20.png;Ghulah;10;20;0;Dispatch;;Creature;Undead,Ghoul;1;0;0;1
 21.png;Ghul;10;20;0;Dispatch;;Creature;Undead,Ghoul;1;0;0;1
-22.png;Iranemite Destroyer;50;70;1;Counter-Attack;Sacrifice another mech, if you don't sacrifice this /n/nDestroy a target creature with Taunt. ;Creature;Mech;1;0;0;0
-23.png;Nesting Gryphon;20;40;1; ;Return a friendly creature to it's owners hand. /n/nDeathwish: Draw a card.;Creature;Beast;1;0;0;1
-24.png;Bestial Gryphon;30;50;1;Dispatch;Deathwish: All beasts you control get +20/+20.;Creature;Beast;0;0;0;1
-25.png;Mech Gunship ;0;60;1; ;Mech Gunship cannot attack. /n/nAt the end of your turn deal 15 damage to all non-mech creatures.;Creature;Sentry,Mech;0;0;0;0
-26.png;Archion, The Worthy;80;120;4; ;Destroy all other creatures and traps on the battlefield, then destroy the rest of your library and discard your hand.;Creature;Dragon;1;0;0;0
-27.png;Glacial Witch;30;60;1;Freeze;Strike: Freeze Glacial Witches Target.;Creature;Frost,Mage;0;1;0;0
-28.png;Glacial Enchantress;30;40;1; ;Draw a card, deal 10 damage to target creature for each card in your hand.;Creature;Frost,Mage;1;0;0;0
+22.png;Iranemite Destroyer;50;70;1;Counter-Attack;Sacrifice a creature /n/nDestroy a creature with Taunt;Creature;Mech;1;0;0;0
+23.png;Nesting Gryphon;20;40;1; ;Return a friendly creature to it's owners hand. /n/nDeathwish: Draw a card;Creature;Beast;1;0;0;1
+24.png;Bestial Gryphon;30;50;1;Dispatch;Deathwish: All beasts you control get +20/+20;Creature;Beast;0;0;0;1
+25.png;Mech Gunship ;0;60;1; ;Mech Gunship cannot attack. /n/nAt the end of your turn deal 15 damage to all non-mech creatures;Creature;Sentry,Mech;0;0;0;0
+26.png;Archion, The Worthy;80;120;4; ;Destroy all other creatures and traps on the battlefield, then destroy the rest of your library and discard your hand;Creature;Dragon;1;0;0;0
+27.png;Glacial Witch;30;60;1;Freeze;Strike: Freeze Glacial Witches Target;Creature;Frost,Mage;0;1;0;0
+28.png;Glacial Enchantress;30;40;1; ;Draw a card, deal 10 damage to target creature for each card in your hand;Creature;Frost,Mage;1;0;0;0
 29.png;Chrysophylax, The Frostbitten;80;120;4;Freeze;Freeze all creatures your opponents control, Add 3 Frost cards to your hand. /n/nFortiify: Destroy any frozen creature;Creature;Frost,Dragon;1;0;0;0
-30.png;Bitter Hag;20;50;1;Freeze;Freeze target creature /n/nFortify: Freeze any creature that damages bitter hag.;Creature;Frost,Mage;1;0;0;0
+30.png;Bitter Hag;20;50;1;Freeze;Freeze target creature /n/nFortify: Freeze any creature that damages bitter hag;Creature;Frost,Mage;1;0;0;0
 31.png;Voodoo Necromancer;20;50;2; ;Summon two Ghouls;Creature;Frost,Mage;1;0;0;0
 32.png;Battalion Fighter;20;30;2;Taunt;Fortify: Gains +20/+20 whenever a Magic or Trap card is played;Creature;Knight;0;0;0;0
-33.png;Battalion Legionnaire ;20;60;2;Taunt;Fortify: Gains +10/+10 for each other creature you control.;Creature;Knight;0;0;0;0
-34.png;Azrael;10;70;3; ;Start of your turn, draw an undead, then if you control 5 Undead Creatures, you win the game.;Creature;Undead,Mage;1;0;0;0
+33.png;Battalion Legionnaire ;20;50;2;Taunt;Fortify: Gains +10/+10 for each other creature you control;Creature;Knight;0;0;0;0
+34.png;Azrael;10;70;3; ;Start of your turn, draw an undead, then if you control 5 Undead Creatures, you win the game;Creature;Undead,Mage;1;0;0;0
 35.png;Woolly Mammoth;30;60;2;Counter Attack;;Creature;Frost,Beast;0;0;0;0
-36.png;Manasa, Mech Queen;40;70;4; ;Destroy all Mech creatures, Manasa gets +20/+20 for each mech destroyed this way. /n/nDeathwish: Put 2 random mech creatures onto the battlefield.;Creature;Mech,Dragon;1;0;0;1
+36.png;Manasa, Mech Queen;40;70;4; ;Destroy all Mech creatures, Manasa gets +20/+20 for each mech destroyed this way. /n/nDeathwish: Put 2 random mech creatures onto the battlefield;Creature;Mech,Dragon;1;0;0;1
 37.png;Mechanical Gryphon;40;60;2; ;Deathwish: Other mechs you control get +20/+20;Creature;Mech,Beast;0;0;0;1
-38.png;King's Guard;10;50;2;Taunt,Counter-Attack;Fortify: King's Guard takes 10 less damage from all sources.;Creature;Knight;0;0;0;0
-39.png;Pegasus;30;60;1;Taunt;End of Turn: give a friendly creature +10/+10;Creature;Beast;0;0;0;0
-40.png;Frigid Conjurer ;20;40;1; ;Add a frost card to your hand.;Creature;Frost,Mage;1;0;0;0
-41.png;Mech Battlements;0;100;1;Taunt;This creature cannot attack. /n/n 1 AP: Sacrifice a Creature, deal 40 Damage to another target creature.;Creature;Sentry,Mech;0;0;0;0
-42.png;Furtive Mechanoid;60;20;3;Dispatch;1 AP: Return this to your hand;Creature;Mech,Assassin;0;0;0;0
-43.png;Sensory Droid;30;40;1; ;Destroy all trap cards on the battlefield and each players hand.;Creature;Mech;1;0;0;0
-44.png;Triggermech Infanteer;30;40;1; ;Strike: Deal 10 damage to all opponents creatures.;Creature;Mech;0;1;0;0
-45.png;Sharkellion;30;40;2;Counter Attack;Destroy target creature with 20 or less health points.;Creature;Mech,Beast;1;0;0;0
+38.png;King's Guard;10;50;2;Taunt,Counter-Attack;Fortify: King's Guard takes 10 less damage from all sources;Creature;Knight;0;0;0;0
+39.png;Pegasus;20;50;1;Taunt;End of Turn: Give another friendly creature +10/+10;Creature;Beast;0;0;0;0
+40.png;Frigid Conjurer ;20;40;1; ;Add a frost card to your hand;Creature;Frost,Mage;1;0;0;0
+41.png;Mech Battlements;0;100;1;Taunt;Rework required;Creature;Sentry,Mech;0;0;0;0
+42.png;Furtive Mechanoid;60;20;3;Dispatch;Rework required;Creature;Mech,Assassin;0;0;0;0
+43.png;Sensory Droid;30;40;1; ;Destroy all trap cards on the battlefield and each players hand;Creature;Mech;1;0;0;0
+44.png;Triggermech Infanteer;30;40;1; ;Strike: Deal 10 damage to all opponents creatures;Creature;Mech;0;1;0;0
+45.png;Sharkellion;30;40;2;Counter Attack;Destroy target creature with 20 or less health points;Creature;Mech,Beast;1;0;0;0
 46.png;Elusive Nymph;20;20;2;Indomitable;Fairies you control have Evasive;Creature;Frost,Fairy;0;0;0;0
 47.png;Chilled Nymph;20;20;1;Indomitable;Freeze target Creature;Creature;Frost,Fairy;1;0;0;0
 48.png;Deadly Nymph;20;20;2;Indomitable;Deal 10 damage to target creature for each fairy you control;Creature;Frost,Fairy,Assassin;1;0;0;0
 49.png;Sprite;20;10;1;Indomitable;Deal 20 damage to each non-fairy creature;Creature;Frost,Fairy,Assassin;1;0;0;0
-50.png;Alluring Nymph;10;20;2;Indomitable;Gain control of target creature until end of turn, it gains dispatch.;Creature;Frost,Fairy;1;0;0;0
+50.png;Alluring Nymph;10;20;2;Indomitable;Gain control of target creature until end of turn, it gains dispatch;Creature;Frost,Fairy;1;0;0;0
 51.png;Ameliorating Nymph;10;30;1;Indomitable;Fortify: At the end of turn, return a fairy that died this turn to the battlefield;Creature;Frost,Fairy,Mage;0;0;0;0
 52.png;Damien;10;30;2;Bloodthirst,Counter-Attack;Summon two Ghouls;Creature;Undead,Vampire;0;0;0;1
 53.png;Dawn;20;10;2;Bloodthirst;Deal 30 damage to target creature;Creature;Undead,Vampire;1;0;0;0
@@ -62,25 +62,26 @@ Version_1.1;Name;Attack;Defence;AP;Keyword;Description;Type;Subbtypes;Spawn;Atta
 61.png;Unsettled Yeti;30;40;1; ;Deathwish: Add a beast to your hand;Creature;Frost,Beast;0;0;0;1
 62.png;War Sasquatch ;30;50;3;Taunt ;Deathwish: Destroy a random enemy minion;Creature;Frost,Beast;0;0;0;1
 63.png;Lonely Yeti;30;40;2; ;Trigger a friendly creatures Deathwish/n/nDeathwish:Draw a card with Deathwish;Creature;Frost,Beast;0;0;0;1
-s1.png;Snow Storm; ; ;;;Fill your board with 0/10 Ice blocks with Destroy this creature after three turns. and conceal your creatures identities. /n/nWhen your opponent attacks a concealed space, reveal that creature. ;Spell;Frost;;;;
-s2.png;Intimidate;;;;;Reduce the attack points of all opponents creatures by 30 for 3 turns;Spell;;;;;
-s3.png;Scorched Earth;;;;;Deal 50 to all creatures your opponent controls.;Spell;Dragon;;;;
-s4.png;Adherent Goop;;;;;Return target creature to it's owners hand;Spell;;;;;
-s5.png;Adoration;;;;;Demon's you control gain Whenever a creature you control dies, draw a card;Spell;Undead;;;;
-s6.png;Reprogram;;;;;Target mech you control gets When this creature dies gain control of a random enemy creature;Spell; ;;;;
-s7.png;Espionage;;;;;Sacrifice 3 Mechs, your opponent loses a life point. ;Spell; ;;;;
-s8.png;Icy Veins;;;;;Freeze 2 random creatures your opponents control;Spell;Frost;;;;
-s9.png;Tsunami;;;;;Destroy all trap cards and remove all buffs on the battlefield.;Spell;Mage;;;;
-s10.png;Angelic Return;;;;;Return two random Angels that died under your control to your hand.;Spell;Mage;;;;
-s11.png;Sprite Revival;;;;;Return two random fairies that died under your control to the battlefield. ;Spell;Angel;;;;
-s12.png;Draconic Inspiration;;;;;Give all creatures you control +20/+40.;Spell; ;;;;
-s13.png;Rejuvenating light;;;;;Restore all creature you their starting life points. ;Spell; ;;;;
-s14.png;Beast Taming;;;;;Add 2 random Beasts to your hand. ;Spell; ;;;;
-s15.png;Meteor;;;;;Meteor costs 3 Actions Points. Destroy target creature.;Spell; ;;;;
-t1.png;Absorb;;;;;When the protected creature is attacked, prevent all damage it would do and add it to the protected creatures defence instead. ;Trap;Mage;;;;
-t2.png;Shackled ;;;;;After a creature attacks you directly reduce it's attack to 0. ;Trap;;;;;
-t3.png;Dispel;;;;;When a creature with buffs attacks, remove all buffs from that creature. ;Trap;;;;;
-t4.png;Redirect;;;;;When a creature attacks the protected creature, it instead attacks another random creature on the battlefield. ;Trap;Mage;;;;
-t5.png;Counter Magic;;;;;When an opponent casts there next spell or trap, counter that card instead.;Trap;Mage;;;;
-t6.png;Shields Up;;;;;When a creature attacks increase the defence total of all creatures you control by the attacking creatures attack power. ;Trap;Knight;;;;
-t7.png;Death Trap;;;;;When a creature with less then 50 attack points attacks, destroy it.;Trap;;;;;
+s1.png;Snow Storm; ; ;3;;Conceal your battlefield, then creatures you control gain Counter Attack.;Spell;Frost;;;;
+s2.png;Intimidate;;;2;;For the rest of the game, creatures you control get +20/+20.;Spell; ;;;;
+s3.png;Scorched Earth;;;2;;Deal 30 damage to opponents creatures;Spell; ;;;;
+s4.png;Adherent Goop;;;1;;Return target creature to it's owners hand;Spell; ;;;;
+s5.png;Adoration;;;2;;Draw 2 cards and summon 2 ghouls. ;Spell;Undead;;;;
+s6.png;Reprogram;;;4;;Gain control of target creature, it gains dispatch. ;Spell; ;;;;
+s7.png;Espionage;;;1;;Sacrifice 3 Mechs, your opponent loses a life point. ;Spell; ;;;;
+s8.png;Icy Veins;;;1;;Freeze 2 random creatures your opponents control;Spell;Frost;;;;
+s9.png;Tsunami;;;4;;Destroy all creates and traps on the battlefield;Spell; ;;;;
+s10.png;Angelic Return;;;2;;"Return 2 random angels from your graveyard to the battlefield
+ ";Spell;Angel;;;;
+s11.png;Sprite Revival;;;2;;Return 3 random fairies from your graveyard to the battlefield;Spell;Fairy;;;;
+s12.png;Draconic Inspiration;;;2;;;Spell; ;;;;
+s13.png;Rejuvenating light;;;1;;Create 2 copies of target creature and put them in your hand;Spell; ;;;;
+s14.png;Beast Taming;;;1;;Add 2 random Beasts to your hand;Spell; ;;;;
+s15.png;Meteor;;;3;;Destroy target creature;Spell; ;;;;
+t1.png;Absorb;;;1;;When an opponent casts there next spell or trap, counter that card instead. ;Trap;;;;;
+t2.png;Shackled ;;;1;;After a creature attacks you directly, gain control of it. ;Trap;;;;;
+t3.png;Dispel;;;1;;After a creature attacks you directly, destroy all creatures on the battlefield.;Trap;;;;;
+t4.png;Redirect;;;1;;When a creature attacks a creature you control, it attacks an ally instead. ;Trap;;;;;
+t5.png;Counter Magic;;;1;;The next time a creature you control is the target of a spell, redirect that spell to an opponents creature instead. ;Trap;;;;;
+t6.png;Shields Up;;;1;;The next time a creature you control is attacked, it gains Counter Attack;Trap;;;;;
+t7.png;Death Trap;;;1;;When a creature with 50 or less attack points attacks, destroy it.;Trap;;;;;
