@@ -57,7 +57,7 @@ Version_1.1;Name;Attack;Defence;AP;Keyword;Description;Type;Subbtypes;Spawn;Atta
 56.png;Lilith;35;45;2; ;If you have no cards in hand, deal 50 damage to target creature and heal a life point. ;Creature;Undead,Mage;1;0;0;0
 57.png;Shadowflame Conjurer ;45;25;2; ;Deal 10 damage to 3 random creatures your opponent controls;Creature;Undead,Mage;1;0;0;0
 58.png;Aimee, Artic Summoner;30;45;2; ;Freeze target creature until Aimee, Arctic Summoner leaves the battlefield;Creature;Frost,Mage;1;0;0;1
-59.png;Swift Wolf;10;30;1;Dispatch,Counter Attack;Can attack twice in a turn;Creature;Frost,Beast;0;1;0;0
+59.png;Swift Wolf;20;20;2;Dispatch,Counter Attack;Can attack twice in a turn;Creature;Frost,Beast;0;1;0;0
 60.png;War Hound;25;30;2;Dispatch,Counter Attack;Strike: Attacked creature gets -10/-0;Creature;Frost,Beast;0;1;0;0
 61.png;Unsettled Yeti;30;40;1; ;Deathwish: Add a beast to your hand;Creature;Frost,Beast;0;0;0;1
 62.png;War Sasquatch ;30;50;3;Taunt ;Deathwish: Destroy a random enemy minion;Creature;Frost,Beast;0;0;0;1
